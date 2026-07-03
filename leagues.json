@@ -1,200 +1,144 @@
-{
-    "UCL": {
-        "strLeague": "دوري أبطال أوروبا"
-    },
-    "UEL": {
-        "strLeague": "الدوري الأوروبي"
-    },
-    "UECL": {
-        "strLeague": "دوري المؤتمر الأوروبي"
-    },
-    "UEFA_SUPER_CUP": {
-        "strLeague": "كأس السوبر الأوروبي"
-    },
-    "FIFA_CLUB_WORLD_CUP": {
-        "strLeague": "كأس العالم للأندية"
-    },
-    "FIFA_WORLD_CUP": {
-        "strLeague": "كأس العالم"
-    },
-    "FIFA_WORLD_CUP_QUALIFIERS": {
-        "strLeague": "تصفيات كأس العالم"
-    },
-    "EURO": {
-        "strLeague": "بطولة أمم أوروبا (يورو)"
-    },
-    "UEFA_NATIONS_LEAGUE": {
-        "strLeague": "دوري الأمم الأوروبية"
-    },
-    "COPA_AMERICA": {
-        "strLeague": "كوبا أمريكا"
-    },
-    "CONCACAF_GOLD_CUP": {
-        "strLeague": "الكأس الذهبية للكونكاكاف"
-    },
-    "AFCON": {
-        "strLeague": "كأس الأمم الأفريقية"
-    },
-    "AFCON_QUALIFIERS": {
-        "strLeague": "تصفيات كأس الأمم الأفريقية"
-    },
-    "CAF_CHAMPIONS_LEAGUE": {
-        "strLeague": "دوري أبطال أفريقيا"
-    },
-    "CAF_CONFEDERATION_CUP": {
-        "strLeague": "كأس الكونفدرالية الأفريقية"
-    },
-    "CAF_SUPER_CUP": {
-        "strLeague": "كأس السوبر الأفريقي"
-    },
-    "AFC_CHAMPIONS_LEAGUE": {
-        "strLeague": "دوري أبطال آسيا"
-    },
-    "AFC_CHAMPIONS_LEAGUE_ELITE": {
-        "strLeague": "دوري أبطال آسيا للنخبة"
-    },
-    "AFC_CUP": {
-        "strLeague": "كأس الاتحاد الآسيوي"
-    },
-    "AFC_ASIAN_CUP": {
-        "strLeague": "كأس آسيا"
-    },
-    "ASIAN_CUP_QUALIFIERS": {
-        "strLeague": "تصفيات كأس آسيا"
-    },
-    "LIBERTADORES": {
-        "strLeague": "كأس ليبرتادوريس"
-    },
-    "SUDAMERICANA": {
-        "strLeague": "كأس سود أمريكانا"
-    },
-    "RECOPA_SUDAMERICANA": {
-        "strLeague": "كأس ريكوبا سود أمريكانا"
-    },
-    "FA_CUP": {
-        "strLeague": "كأس الاتحاد الإنجليزي"
-    },
-    "EFL_CUP": {
-        "strLeague": "كأس الرابطة الإنجليزية"
-    },
-    "COMMUNITY_SHIELD": {
-        "strLeague": "درع الاتحاد الإنجليزي"
-    },
-    "COPA_DEL_REY": {
-        "strLeague": "كأس ملك إسبانيا"
-    },
-    "SUPERCOPA_DE_ESPANA": {
-        "strLeague": "كأس السوبر الإسباني"
-    },
-    "COPPA_ITALIA": {
-        "strLeague": "كأس إيطاليا"
-    },
-    "SUPERCOPPA_ITALIANA": {
-        "strLeague": "كأس السوبر الإيطالي"
-    },
-    "DFB_POKAL": {
-        "strLeague": "كأس ألمانيا"
-    },
-    "DFL_SUPERCUP": {
-        "strLeague": "كأس السوبر الألماني"
-    },
-    "COUPE_DE_FRANCE": {
-        "strLeague": "كأس فرنسا"
-    },
-    "TROPHEE_DES_CHAMPIONS": {
-        "strLeague": "كأس الأبطال الفرنسي"
-    },
-    "TACA_DE_PORTUGAL": {
-        "strLeague": "كأس البرتغال"
-    },
-    "SUPERTACA_PORTUGAL": {
-        "strLeague": "كأس السوبر البرتغالي"
-    },
-    "EREDIVISIE": {
-        "strLeague": "الدوري الهولندي الممتاز"
-    },
-    "KNVB_CUP": {
-        "strLeague": "كأس هولندا"
-    },
-    "BELGIAN_CUP": {
-        "strLeague": "كأس بلجيكا"
-    },
-    "SCOTTISH_CUP": {
-        "strLeague": "كأس إسكتلندا"
-    },
-    "SCOTTISH_LEAGUE_CUP": {
-        "strLeague": "كأس الرابطة الإسكتلندية"
-    },
-    "TURKISH_CUP": {
-        "strLeague": "كأس تركيا"
-    },
-    "SAUDI_PRO_LEAGUE": {
-        "strLeague": "الدوري السعودي للمحترفين"
-    },
-    "KINGS_CUP": {
-        "strLeague": "كأس خادم الحرمين الشريفين"
-    },
-    "SAUDI_SUPER_CUP": {
-        "strLeague": "كأس السوبر السعودي"
-    },
-    "EGYPTIAN_PREMIER_LEAGUE": {
-        "strLeague": "الدوري المصري الممتاز"
-    },
-    "EGYPT_CUP": {
-        "strLeague": "كأس مصر"
-    },
-    "EGYPTIAN_LEAGUE_CUP": {
-        "strLeague": "كأس الرابطة المصرية"
-    },
-    "EGYPTIAN_SUPER_CUP": {
-        "strLeague": "كأس السوبر المصري"
-    },
-    "BOTOLA_PRO": {
-        "strLeague": "الدوري المغربي"
-    },
-    "THRONE_CUP": {
-        "strLeague": "كأس العرش المغربي"
-    },
-    "TUNISIAN_LIGUE_1": {
-        "strLeague": "الدوري التونسي"
-    },
-    "TUNISIAN_CUP": {
-        "strLeague": "كأس تونس"
-    },
-    "ALGERIAN_LIGUE_1": {
-        "strLeague": "الدوري الجزائري"
-    },
-    "ALGERIAN_CUP": {
-        "strLeague": "كأس الجزائر"
-    },
-    "UAE_PRO_LEAGUE": {
-        "strLeague": "دوري أدنوك للمحترفين"
-    },
-    "UAE_PRESIDENT_CUP": {
-        "strLeague": "كأس رئيس دولة الإمارات"
-    },
-    "QATAR_STARS_LEAGUE": {
-        "strLeague": "دوري نجوم قطر"
-    },
-    "EMIR_CUP": {
-        "strLeague": "كأس الأمير القطري"
-    },
-    "KUWAIT_PREMIER_LEAGUE": {
-        "strLeague": "الدوري الكويتي الممتاز"
-    },
-    "OMAN_PRO_LEAGUE": {
-        "strLeague": "الدوري العماني"
-    },
-    "BAHRAIN_PREMIER_LEAGUE": {
-        "strLeague": "الدوري البحريني الممتاز"
-    },
-    "IRAQI_STARS_LEAGUE": {
-        "strLeague": "دوري نجوم العراق"
-    },
-    "JORDAN_PRO_LEAGUE": {
-        "strLeague": "الدوري الأردني للمحترفين"
-    },
-    "LEBANESE_PREMIER_LEAGUE": {
-        "strLeague": "الدوري اللبناني الممتاز"
-    }
+"4348": {
+    "idLeague": "4348",
+    "strLeague": "الدوري المصري الممتاز",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "Egyptian Premier League"
+},
+"4349": {
+    "idLeague": "4349",
+    "strLeague": "كأس مصر",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "Egypt Cup"
+},
+"4350": {
+    "idLeague": "4350",
+    "strLeague": "كأس الرابطة المصرية",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "Egyptian League Cup"
+},
+"4351": {
+    "idLeague": "4351",
+    "strLeague": "كأس السوبر المصري",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "Egyptian Super Cup"
+},
+"4352": {
+    "idLeague": "4352",
+    "strLeague": "دوري أبطال أوروبا",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "UEFA Champions League"
+},
+"4353": {
+    "idLeague": "4353",
+    "strLeague": "الدوري الأوروبي",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "UEFA Europa League"
+},
+"4354": {
+    "idLeague": "4354",
+    "strLeague": "دوري المؤتمر الأوروبي",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "UEFA Europa Conference League"
+},
+"4355": {
+    "idLeague": "4355",
+    "strLeague": "كأس السوبر الأوروبي",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "UEFA Super Cup"
+},
+"4356": {
+    "idLeague": "4356",
+    "strLeague": "دوري أبطال أفريقيا",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "CAF Champions League"
+},
+"4357": {
+    "idLeague": "4357",
+    "strLeague": "كأس الكونفدرالية الأفريقية",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "CAF Confederation Cup"
+},
+"4358": {
+    "idLeague": "4358",
+    "strLeague": "كأس السوبر الأفريقي",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "CAF Super Cup"
+},
+"4359": {
+    "idLeague": "4359",
+    "strLeague": "كأس الأمم الأفريقية",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "Africa Cup of Nations"
+},
+"4360": {
+    "idLeague": "4360",
+    "strLeague": "تصفيات كأس الأمم الأفريقية",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "AFCON Qualification"
+},
+"4361": {
+    "idLeague": "4361",
+    "strLeague": "دوري أبطال آسيا",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "AFC Champions League"
+},
+"4362": {
+    "idLeague": "4362",
+    "strLeague": "دوري أبطال آسيا للنخبة",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "AFC Champions League Elite"
+},
+"4363": {
+    "idLeague": "4363",
+    "strLeague": "كأس آسيا",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "AFC Asian Cup"
+},
+"4364": {
+    "idLeague": "4364",
+    "strLeague": "تصفيات كأس آسيا",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "Asian Cup Qualification"
+},
+"4365": {
+    "idLeague": "4365",
+    "strLeague": "كأس العالم",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "FIFA World Cup"
+},
+"4366": {
+    "idLeague": "4366",
+    "strLeague": "تصفيات كأس العالم",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "FIFA World Cup Qualification"
+},
+"4367": {
+    "idLeague": "4367",
+    "strLeague": "كأس العالم للأندية",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "FIFA Club World Cup"
+},
+"4368": {
+    "idLeague": "4368",
+    "strLeague": "بطولة أمم أوروبا (يورو)",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "UEFA European Championship"
+},
+"4369": {
+    "idLeague": "4369",
+    "strLeague": "دوري الأمم الأوروبية",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "UEFA Nations League"
+},
+"4370": {
+    "idLeague": "4370",
+    "strLeague": "كوبا أمريكا",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "Copa America"
+},
+"4371": {
+    "idLeague": "4371",
+    "strLeague": "الكأس الذهبية للكونكاكاف",
+    "strSport": "Soccer",
+    "strLeagueAlternate": "CONCACAF Gold Cup"
 }
